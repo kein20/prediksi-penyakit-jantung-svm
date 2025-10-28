@@ -1,7 +1,6 @@
 # Prediksi Penyakit Jantung Menggunakan Support Vector Machine (SVM)
 
-Proyek ini adalah implementasi metode *machine learning* untuk memprediksi risiko penyakit jantung pada pasien. Model yang digunakan adalah **Support Vector Machine (SVM)** dengan kernel RBF, dibangun sebagai Proyek Akhir mata kuliah Kecerdasan Buatan di Universitas Negeri Surabaya.
-
+Proyek ini adalah implementasi metode *machine learning* untuk memprediksi risiko penyakit jantung pada pasien. Model yang digunakan adalah **Support Vector Machine (SVM)** dengan kernel RBF.
 ---
 
 ### 📋 Deskripsi Proyek
